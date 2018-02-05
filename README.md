@@ -1,7 +1,7 @@
 ## CS361 Foundations of Security. Assignment 5 (Markov process) [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://https://raw.githubusercontent.com/qirh/CS361-assignment5/master/LICENSE)
 
 ### Description
-Java project by me and [@Ovais](https://github.com/theBrovais). Done for CS f361, taught by the amazing [Dr. Bill Young](https://www.cs.utexas.edu/~byoung/) in the summer of 2016. For assignment details, please look [here](https://github.com/qirh/CS361-assignment5/blob/master/assignment-5.pdf)
+Java project by me and [@Ovais](https://github.com/theBrovais). Done for CS f361, taught by the amazing [Dr. Bill Young](https://www.cs.utexas.edu/~byoung/) in the summer of 2016. For assignment details, please look [here](https://github.com/qirh/CS361-assignment5/blob/master/assignment5.pdf)
 
 **There are 3 java files:** 
 * Saleh worked on *Reader.Java*
